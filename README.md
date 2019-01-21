@@ -1,6 +1,6 @@
 # Motivation
 
-Private technology radar based on [Zalando's tech-radar](https://github.com/zalando/tech-radar)
+Our technology radar based on https://github.com/yaneek/tech-radar
 
 ## Local Development
 
