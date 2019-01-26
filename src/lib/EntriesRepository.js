@@ -1,6 +1,6 @@
-import { ALL_ENTRIES } from '../data/entries';
-import { QUADRANTS } from '../data/quadrants';
-import { RING_NAMES, RINGS, CUSTOM_RING_FILTERS } from '../data/rings';
+import { ALL_ENTRIES } from '../data/entries-codelight';
+import { QUADRANTS } from '../data/quadrants-codelight';
+import { RING_NAMES, RINGS, CUSTOM_RING_FILTERS } from '../data/rings-codelight';
 
 let id = 1;
 function normalizeEntry(entry, quadrantIndex) {
