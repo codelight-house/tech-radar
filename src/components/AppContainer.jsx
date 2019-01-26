@@ -56,11 +56,11 @@ class AppContainer extends Component {
     return (
       <>
         <Typography variant="h4">
-          Technology radar - Grzegorz Marchwiński
+          Technology radar - <a href="https://codelight.house/">Codelight.house</a>
         </Typography>
         <Typography variant="subtitle1">
-          <a className="social-icon" title="Fork me at github" href="https://github.com/yaneek/tech-radar" target="_BLANK" rel="noopener noreferrer"><img alt="github" src="./img/GitHub-Mark-32px.png"></img></a>
-          <a className="social-icon" title="Linkedin" href="https://www.linkedin.com/in/grzegorz-marchwinski/" target="_BLANK" rel="noopener noreferrer" ><img alt="github" src="./img/In-Black-34px-R.png"></img></a>
+          <a className="social-icon" title="Fork us" href="https://github.com/codelight-house/tech-radar" target="_BLANK" rel="noopener noreferrer"><img alt="github" src="./img/GitHub-Mark-32px.png"></img></a>
+          <a className="social-icon" title="Linkedin" href="https://www.linkedin.com/company/codelight-house/" target="_BLANK" rel="noopener noreferrer" ><img alt="github" src="./img/In-Black-34px-R.png"></img></a>
         </Typography>
         <Typography variant="h6">Filter by tag:</Typography>
         <FilterContainer
