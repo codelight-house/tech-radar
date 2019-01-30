@@ -1,14 +1,11 @@
 {
-  "name": "yankee-tech-radar",
+  "name": "codelight-house-tech-radar",
   "version": "2019.1.1",
   "description": "Visualizing technology choices",
-  "homepage": "/tech-radar",
+  "homepage": "https://codelight-house.github.io/tech-radar/",
   "repository": "https://github.com/yaneek/tech-radar.git",
   "license": "MIT",
   "private": true,
-  "directories": {
-    "doc": "docs"
-  },
   "dependencies": {
     "@material-ui/core": "^3.9.0",
     "d3": "^5.7.0",
